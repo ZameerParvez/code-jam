@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class SavingTheUniverse {
+public class Solution {
 
 	public static int countSwitches(List<String> engines, List<String> queries) {
 		int numOfSwitches = 0;
